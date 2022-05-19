@@ -14,7 +14,7 @@ python main.py
 - x^n, n^x, x^x, sqrt(x)
 - ln(x), log(x)
 ## Supported constents:
-pi, e
+- pi, e
 ### tested with pytest and numpy.testing
 # some examples
 ![python_ETd9CwFe1P](https://user-images.githubusercontent.com/76039756/169344559-4e9e6b50-6250-4ef9-9df6-6b632adbddf1.png)
