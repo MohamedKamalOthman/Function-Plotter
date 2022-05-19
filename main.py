@@ -43,7 +43,7 @@ class main(QMainWindow):
 
         self.toolbar = NavigationToolbar(self.MplWidget.canvas, self)
 
-        self.toolbar.setStyleSheet("background-color:White;")
+        self.toolbar.setStyleSheet("background-color:#2855a7;")
 
         self.setWindowIcon(QIcon('icon.ico'))
 
