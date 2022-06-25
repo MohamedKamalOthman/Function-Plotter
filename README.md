@@ -3,7 +3,7 @@
 ```
 python main.py
 ```
-## Dependcies:
+## Dependencies:
 - PyQt5
 - matplotlib
 - numpy
